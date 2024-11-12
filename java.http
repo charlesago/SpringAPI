@@ -1,0 +1,5 @@
+### GET request to example server
+GET https://localhost:8080/api/brand/showall
+    ?generated-in=IntelliJ IDEA
+
+###
